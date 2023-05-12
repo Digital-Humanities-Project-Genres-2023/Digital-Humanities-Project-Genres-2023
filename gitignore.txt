@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+nltk_data/
+__pycache__/
+books_by_categories.zip
+src/word2vec.wordvectors
+src/word2vec.wordvectors.vectors.npy
+src/cleaned_text_dataframe.csv
+src/training_set1.pickle
+src/mariadb_data.py

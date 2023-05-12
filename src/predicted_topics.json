@@ -1,0 +1,98 @@
+{
+  "1720": {
+    "1": "Kings",
+    "2": "Verbs?/War?",
+    "3": "Goverment/Royal",
+    "4": "Romance",
+    "5": "Law",
+    "6": "Prayer/Bible",
+    "7": "Social",
+    "8": "War?",
+    "9": "Religion",
+    "10": "Science"
+  },
+  "1730": {
+    "1": "Locations/People",
+    "2": "Social Concepts",
+    "3": "State",
+    "4": "Religion",
+    "5": "Bigger Concepts",
+    "6": "Kings",
+    "7": "Religion",
+    "8": "Nature",
+    "9": "Goverment/Kingdom",
+    "10": "Romance"
+  },
+  "1740": {
+    "1": "War/Kingdom",
+    "2": "Religion",
+    "3": "NA?",
+    "4": "Law",
+    "5": "Religion",
+    "6": "Nature",
+    "7": "Romance",
+    "8": "Romance",
+    "9": "Royalty",
+    "10": "Philosophy"
+  },
+  "1750": {
+    "1": "Kingdom",
+    "2": "NA",
+    "3": "Romance/Religion",
+    "4": "Religion",
+    "5": "NA",
+    "6": "Country/Issues",
+    "7": "Kingdom",
+    "8": "Mankind",
+    "9": "Bible/Religion",
+    "10": "Nature"
+  },
+  "1760": {
+    "1": "Love/Family",
+    "2": "Nature",
+    "3": "Love/Religious Concepts",
+    "4": "Kingdom",
+    "5": "Bible/Religion",
+    "6": "Religion",
+    "7": "Government affairs",
+    "8": "NA",
+    "9": "State Affairs",
+    "10": "Philosophy"
+  },
+  "1770": {
+    "1": "NA",
+    "2": "Law/Court",
+    "3": "Love/Religion",
+    "4": "Kingdom",
+    "5": "Mankind",
+    "6": "Love",
+    "7": "Higher Power",
+    "8": "Kingdom/War",
+    "9": "Nature",
+    "10": "Church/Religion"
+  },
+  "1780": {
+    "1": "NA",
+    "2": "War",
+    "3": "Law",
+    "4": "Mandkind",
+    "5": "Romance",
+    "6": "Medicine",
+    "7": "Religion",
+    "8": "Prayer/Bible",
+    "9": "Trade/Economy",
+    "10": "Court/Kingdom"
+  },
+  "1790": {
+    "1": "NA",
+    "2": "Love",
+    "3": "Law",
+    "4": "Parliament",
+    "5": "Literature?",
+    "6": "Romance",
+    "7": "Religion",
+    "8": "Countries/Land/Economy",
+    "9": "Ingredients?",
+    "10": "Mankind"
+  }
+}
