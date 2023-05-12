@@ -3,4 +3,3 @@
 
 - Dashboards: Notebooks to visualize data
 - Misc: Examples and other stuff
-- src: Modular code to share in the project
